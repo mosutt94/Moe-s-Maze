@@ -1,0 +1,17 @@
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jsutton/Desktop/RollaBall/obj/Debug/Assembly-CSharp.dll
+/Users/jsutton/Desktop/RollaBall/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/UnityEngine.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/UnityEditor.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jsutton/Desktop/RollaBall/Temp/bin/Debug/Mono.Cecil.Mdb.dll
